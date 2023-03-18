@@ -1,0 +1,53 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Flawed Products Harm – A Framework to Respond",
+      "description": "As the workforce decentralizes through the increased availability of remote employment options,",
+      "author": "Ajiz",
+      "imgUrl": "https://g.foolcdn.com/editorial/images/724249/a-bull-facing-a-bear.jpg"
+    },
+    {
+      "id": 2,
+      "author": "Jonathon Ramsey",
+      "title": "EV Home Charging Study finds owner satisfaction down",
+      "description": "Filed under:\n Green,Tesla,Green Culture,Electric,Hybrid\n Continue reading EV Home Charging Study finds owner satisfaction down\nEV Home Charging Study finds owner satisfaction down originally appeared on Autoblog on Thu, 16 Mar 2023 08:06:00 EDT. Please see ou…",
+      "imgUrl": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/03/16050242/jd_power_evx_study_2023.png"
+    },
+    {
+      "id": 3,
+      "author": "Rob Thubron",
+      "title": "Tesla hit with right-to-repair class action lawsuits alleging monopolistic practices",
+      "description": "A proposed class action lawsuit was brought in US District Court, Northern District of California, by Model S owner Virginia Lambrix on Tuesday. She says Tesla caused her to suffer lengthy delays in repairing or maintaining her vehicle.Read Entire Article",
+      "imgUrl": "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-05-image.jpg"
+    },
+    {
+      "id": 4,
+      "author": "Jennifer Sensiba",
+      "title": "Tesla Should Prioritize CCS Network Gaps With Magic Dock",
+      "description": "A few weeks ago, I ran across a significant logistical challenge when planning a trip. I wanted to take my Bolt EUV (with only 200–250 miles of range) to Moab, and probably with a small trailer full of camping gear or an RV. Neither of those trailers ended up…",
+      "imgUrl": "https://cleantechnica.com/files/2022/08/Tesla-Model-3-Superchargers-three-year-service-update-Bazaar-logo.png"
+    },
+    {
+      "id": 5,
+      "author": "Abdullah",
+      "title": "Tesla in danger: Volkswagen launched a super cheap electric car",
+      "description": "Volkswagen, the German automaker, has recently revealed a concept of its upcoming electric entry level vehicle, the ID.2. It is being marketed as an affordable ...\nThe post Tesla in danger: Volkswagen launched a super cheap electric car appeared first on Gizc…",
+      "imgUrl": "https://www.gizchina.com/wp-content/uploads/images/2023/03/DB2023AU00197_web_1600-1200x800.jpg"
+    },
+    {
+      "title": "HOME  LIVERPOOL NEWS Liverpool cutting ties with Naby Keita and Alex Oxlade-Chamberlain",
+      "author": "Samsul",
+      "imgUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2023/01/Naby-Keita-Liverpool-Premier-League-2-scaled.jpg?width=800",
+      "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+      "id": 6
+    },
+    {
+      "title": "THE TIMES: LIVERPOOL GIFTED BOOST AS 'SPECIAL' TARGET'S CLUB NOW IN FINANCIAL NIGHTMARE",
+      "author": "Samsung",
+      "imgUrl": "https://cdn.footballtransfertavern.com/wp-content/uploads/2022/04/2022-02-13T212110Z_1229159100_UP1EI2D1NB8KV_RTRMADP_3_SOCCER-SPAIN-ESY-FCB-REPORT-1-scaled.jpg?width=480&aspect_ratio=48:31",
+      "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+      "id": 7
+    }
+  ]
+}
